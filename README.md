@@ -6,6 +6,7 @@ Calculates the output of an engine in "Horsepower(approximately 745.7 watts)" al
 The interface is designed using tkinter library for python while the connection to a simple access database is established using pyodbc.
 
 Correction-factor is calculated using the SAE(Society of Automotive Engineers) and includes frictional loss using the formula:
+
 ![images](https://user-images.githubusercontent.com/112173249/186931113-14855aef-a69c-477c-b988-346596f02cbd.png)
 
 ## Interface:
