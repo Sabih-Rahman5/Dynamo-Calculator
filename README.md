@@ -3,7 +3,7 @@ A simple industrial application to calculate the output of an engine using tkint
 
 Calculates the output of an engine in "Horsepower(approximately 745.7 watts)" along with the correction factor, corrected-horsepower, top-speed, and power/weight-ratio.
 
-The interface is designed using tkinter library for python while the connection to a simple access database is established using pyodbc.
+The interface is designed using tkinter library for python while the connection to a simple Microsoft Access database is established using pyodbc.
 
 Correction-factor is calculated using the SAE(Society of Automotive Engineers) and includes frictional loss using the formula:
 
